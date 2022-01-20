@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @teo0092
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning Scripting
